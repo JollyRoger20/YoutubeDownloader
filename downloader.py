@@ -67,6 +67,7 @@ for yt in yts:
     
     try:
         import prettytable
+        #[TODO] Create a prettier table for showing the streams in the terminal 
         
     except ImportError:
 
